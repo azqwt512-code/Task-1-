@@ -1,0 +1,8 @@
+<resources>
+    <color name="quadrant_one">#FFDBC3</color>
+    <color name="quadrant_two">#FDEBE1</color>
+    <color name="quadrant_three">#FDEBE1</color>
+    <color name="quadrant_four">#FFDBC3</color>
+    <color name="primary_text">#251912</color>
+    <color name="page_background">#FFDBC3</color>
+</resources>

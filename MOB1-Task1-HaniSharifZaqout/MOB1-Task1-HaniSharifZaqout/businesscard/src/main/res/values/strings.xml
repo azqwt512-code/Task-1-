@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="android_label">android</string>
+    <string name="full_name">Hani Zaqout</string>
+    <string name="job_title">Expert Android Developer</string>
+    <string name="contact_phone">+970 597 311 987</string>
+    <string name="contact_social">\@YourHaniZaqout</string>
+    <string name="contact_email">your@email.com</string>
+    <string name="android_logo_description">Android robot logo</string>
+    <string name="phone_description">Phone number</string>
+    <string name="social_description">Social media</string>
+    <string name="email_description">Email address</string>
+</resources>
